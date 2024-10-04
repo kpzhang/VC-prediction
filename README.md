@@ -1,6 +1,6 @@
 # MGT Model
 
-This is the source code for paper [xxx](xxx).
+This is the source code for paper [Graph Neural Network Based VC Investment Success Prediction](https://arxiv.org/abs/2105.11537).
 
 ## Abstract
 Given start-ups' high-risk and high-reward nature, identifying the ones that will eventually succeed is literally a million-dollar question for practitioners in the \$63-billion venture capital industry and for policy makers worldwide, especially at an early stage such that investment returns can be exponential, and policies can better guide and promote the innovation ecosystem for long-term economic growth.
